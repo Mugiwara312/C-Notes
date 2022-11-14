@@ -1,5 +1,6 @@
-/*                                          C Notes
-Print Function*/
+/*                                                                          C Notes
+<Print Function>*/
+
 #include <stdio.h>
 int main()
 {
